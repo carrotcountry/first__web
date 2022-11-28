@@ -1,0 +1,136 @@
+#head{
+    color: white;    
+    text-decoration:none;
+ }
+ 
+ body{
+    background-color: black;
+ }
+ 
+ #heading{
+    color:white;
+    width:300px;
+    place-items: center;
+    margin:auto;
+    border-radius: 10px;
+    font-weight:bold;                  
+    font-family:"Trebuchet MS", Dotum, Arial;
+ }
+ 
+ 
+ #heading #head{
+    text-align: center;
+ }
+                 
+ .firstnav .menu {                                                      
+    text-decoration:none;                      
+    color: white;                                                        
+    width: 500px;                              
+    font-size:14px;                        
+    font-weight:bold;                  
+    font-family:"Trebuchet MS", Dotum, Arial;
+ }
+ 
+ /* #menuLink{
+    height: 50;
+ } */
+ 
+ /* .firstnav .menu:hover {            
+    color: black;                   
+    background-color: white;  
+ }  */
+ 
+ .menuLink1:hover, .menuLink2:hover, .menuLink3:hover, .menuLink4:hover, .menuLink5:hover,.menuLink6:hover {     
+    color: black;                                  
+    background-color: white;  
+ } 
+ 
+ .menuLink1, .menuLink2, .menuLink3, .menuLink4, .menuLink5, .menuLink6{
+ border-radius: 10px;
+ }
+ 
+ img{
+    border-radius: 10px;
+ }    
+ 
+ 
+ h3{
+    color: white;
+    text-align: center;
+ 
+ }
+ 
+ 
+ .firstnav{
+   text-align: center;
+   margin: 40px auto;
+   width: 950px;
+}
+ 
+ .menu{
+    text-decoration:none;
+    color:white;
+ }
+ 
+ .firstnav div {
+    display: inline-block;
+    width: 300px;
+    color:white;
+    z-index: 60;
+ }
+   
+ img{
+    text-align: center;
+ }
+ 
+ footer #footerletter{
+    position:fixed;
+    bottom:0;
+     left:0; 
+ }
+ 
+ #footerletter .footer_p {
+    color:white;
+    text-align: center;
+ 
+ }
+ 
+ html, body {
+    margin: 0;
+    padding: 0;
+    height: 90%;
+ }
+ 
+ #body-wrapper {
+    min-height: 100%;
+    position: relative;
+ }
+ 
+ #body-content {
+    margin-top: 50px;
+    padding-bottom: 50px; /* footer의 높이 */
+ }
+ 
+ 
+ footer {
+    width: 100%;
+    height: 70px; /* footer의 높이 */
+    position: absolute;  
+    bottom: 0;
+    left: 0;
+ }
+ 
+ .menuLink1, .menuLink3, .menuLink5 {
+   margin-top: 10%;
+   margin-bottom:30px;
+}
+
+.menuLink2, .menuLink4, .menuLink6 {
+   margin-top:25px;
+   margin-bottom: 30px;
+}
+ 
+ 
+ /* .menuLink2{
+   width: 50px;
+ } */

@@ -1,0 +1,299 @@
+/* body{
+    text-align: center;
+    margin: 0 auto;
+    width: 960px;
+    position: relative; 
+}*/
+
+/* .picpic{
+    border-radius: 13px;
+} */
+
+
+section{
+    /* margin: 200px 0px; */
+    margin: 200 auto;
+}
+
+
+#info_content {
+    /* text-align: center; */
+    width: 700px;
+    /* height: 500px;   */
+    color: white;
+    border-color: black;
+    /* margin: 0 auto; */
+}
+
+#table_content{
+    margin: 0px 50px ;
+    text-align: right;
+}
+
+#table_one{
+    /* width: 800px; */
+    margin: 0 191px;
+}
+
+
+
+
+aside{
+    float: right;
+    margin: 0 180px;
+}
+/* #info_content tr .table_white{
+    color: black;
+    background-color: white;
+} */
+
+#first_header{
+    height: 150px;
+}
+
+
+
+#info_content2 {
+    /* float: left; */
+    color: white;
+    height: 50px;
+}
+
+#table_img{
+    height: 300px;
+    float: right;
+    width: 440px;
+    height: 400px;
+}
+
+/* table{
+    width: 370px;
+    text-align: center;
+} */
+td{
+    /* border-radius: 5px; */
+    height:50px;
+    border:1px solid white;
+    text-align: center;
+}
+
+.inline{
+    display: inline;
+}
+
+/* .content{
+    float:left;
+} */
+
+.info{
+    float:right;
+}
+body{
+    background-color: black;
+    
+}
+
+
+header{
+    text-align: center;
+    color:white;
+}
+
+.info{
+    right:90px;
+    color:white;
+
+}
+
+#content {
+    border-radius: solid white 3px;
+    float: right;
+    /* background-color: white; */
+    color:black;
+    width: 300px;
+    height: 300px;
+    /* text-align: center; */
+    text-decoration:none;
+}
+
+#content div{
+    width: 150px;
+    height: 25px;
+    text-decoration:none;
+    margin: 0 auto;
+}
+
+#content .other_anchor{
+    width: 150px;
+    height: 40px;
+    text-decoration:none;
+    margin-top: 4%;
+
+    margin: 0 auto;
+}
+
+#content a .other_anchor{
+    margin-top: 4%;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+    /* position: relative */
+}
+
+#content a div:hover{
+    background-color: white;
+    color:black;
+    text-decoration:none;
+
+}
+
+#content a{
+    text-decoration:none;
+    width: 100;
+}        
+
+#content a div {
+    height: 20px;
+    /* width: 150px; */
+
+    margin-top: 5%;
+    color: white;
+    text-decoration:none;   
+    text-align: center;
+    /* position: relative */
+}
+
+
+.first_p{
+    height: 30px;
+    width: 1100px;
+    color:white;
+}
+
+.first_article .img1 .steve_life{
+    float:left;
+    border-radius: 8px;
+    height:275px;
+}
+
+.img1{
+    float: left;
+    width: 230px;
+    /* border-radius: 30px; */
+}
+
+.img2{
+    float: left;
+    width: 245px;
+}
+
+.img3{
+    float: left;
+    width: 210px;
+}
+
+.img4{
+    float: left;
+    width: 244px;
+    /* height: ; */
+}
+
+.img5{
+    float: left;
+    width: 240px;
+}
+
+
+.img6{
+    float: left;
+    width: 290px;
+}
+.next_jobs{
+    border-radius: 10px;
+    height: 300px;
+}
+
+.business_steve {
+    border-radius: 10px;
+    height: 270px;
+}
+
+.back_to_apple_steve {
+    border-radius: 10px;
+    height: 280px;
+}
+
+.ipod_steve{
+    border-radius: 10px;
+    height: 340px;
+}
+
+.iphone_steve{
+    border-radius: 10px;
+    height: 310px;
+}
+
+.ipad_steve{
+    border-radius: 10px;
+    height: 300px;
+}
+
+h2{
+    color:white;
+}
+
+#main_article, .first_article, .second_article, .third_article{
+   width: 1108px;
+   color:white;
+}
+/* 
+.second_article{
+    width: 1103px;
+    color:white;
+} */
+
+footer {
+    width: 100%;
+    height: 70px; /* footer의 높이 */
+    /* position: relative;   */
+    bottom: 0;
+    left: 0;
+ }
+
+
+ #footerletter .footer_p {
+    color:white;
+    text-align: center;
+ }
+/* 
+ body{
+    width: 1100px; margin: 0 auto;
+    background: white;
+} */
+
+video{
+    margin:0 auto;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+        /* #page-wrapper{
+            background: black;
+            margin: 40px 0; padding: 10px 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(100,100,100, 0.3);
+        }
+
+
+        #main_article, .first_article, .second_article, .third_article{
+            width: 928px;
+            color:white;
+         }
+
+         body{
+            width: 960px; margin: 0 auto;
+            background: #E6E6E6
+        } */
